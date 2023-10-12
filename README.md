@@ -1,6 +1,6 @@
 # Employee_Management_MEAN-stack
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+This project is developed with Angular, Bootstrap, TypeScript, MongoDB, Node.js, Express.js
 
 Employee Management Software is a versatile and user-friendly application designed to simplify and streamline the process of managing employees within your organization. Whether you are a small business owner or part of a larger enterprise, this software offers a comprehensive set of features to help you efficiently manage your workforce.
 
