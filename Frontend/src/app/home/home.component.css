@@ -30,7 +30,7 @@ p {
     flex-direction: column;
     align-items: center;
     border-radius: 8px;
-    background: linear-gradient(#ff00ee, #0278ff);
+    background: linear-gradient(#f7e7f6, #d1ddeb);
 }
 
 .card-container {
@@ -80,7 +80,7 @@ p {
 }
 
 .card.highlight-card {
-    background: linear-gradient(#ff00ee, #0278ff);
+    background: linear-gradient(white, #e5effc);
     color: white;
     font-weight: 600;
     border: 1px;
@@ -94,7 +94,7 @@ p {
 
 .card.highlight-card.card-small:hover
 {
-    background: linear-gradient(#0278ff,#ff00ee);
+    background: linear-gradient(white, #e5effc);
 }
 s
 .card.card.highlight-card span {
